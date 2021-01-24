@@ -208,7 +208,7 @@ void blinkLights()
 
 void playSounds()
 {
-  //TODO
+  //play my dog has fleas
 }
 
 void playVictorySounds()
