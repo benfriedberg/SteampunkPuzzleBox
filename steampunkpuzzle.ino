@@ -128,8 +128,7 @@ bool isCurrentStepComplete()
 
 bool statesAreEqual(int pattern1[], int pattern2[])
 {
-  return 
-  (pattern1[0] == pattern2[0] 
+  return (pattern1[0] == pattern2[0] 
   && pattern1[1] == pattern2[1]
   && pattern1[2] == pattern2[2]
   && pattern1[3] == pattern2[3]);
